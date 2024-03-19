@@ -131,7 +131,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-image: url('img/navbar.png'); 
+  background-color: linear-gradient(180deg, #5e1b89 0%, #f4512c 57.03%);
   background-size: cover;
   padding: 15px 30px;
   border-radius: 10px;
